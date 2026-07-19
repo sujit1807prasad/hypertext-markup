@@ -1,2 +1,2 @@
 # hypertext-markup
-this is a project where we develop ai
+this is a project where we develop ai and basic knowledge of technology 
